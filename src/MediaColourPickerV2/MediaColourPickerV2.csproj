@@ -47,7 +47,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Composers\" />
     <Folder Include="Controllers\" />
   </ItemGroup>
 
